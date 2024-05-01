@@ -13,7 +13,7 @@ Note that the mouse is being moved by python
 2) Download Stockfish from https://stockfishchess.org/  
    **Note** that on Linux systems you must manually add execute permissions to the stockfish executable
 3) Open a Terminal
-4) `cd chess-auto-bot`
+4) `cd Chess-Automation`
 5) Windows: `python -m venv venv`  
    Linux: `python3 -m venv venv`
 6) Windows: `venv\Scripts\pip.exe install -r requirements.txt`  
