@@ -21,7 +21,7 @@ Note that the mouse is being moved by python
 
 ## How to use
 1) Open a Terminal
-2) `cd chess-auto-bot`
+2) `cd Chess-Automation`
 3) Windows: `venv\Scripts\python.exe src\gui.py`  
    Linux: `venv/bin/python3 src/gui.py`
 4) Click Select Stockfish on the GUI that opens. This will open a file explorer. Navigate to the folder where you downloaded Stockfish and select the Stockfish executable.
